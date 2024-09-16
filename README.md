@@ -61,7 +61,7 @@
 
 ### Dependencies
 
-**`GAMKERSET`** requires following programs to run properly -
+**`Mr jolly`** requires following programs to run properly -
 
 - `php`
 - `python3`

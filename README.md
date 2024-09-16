@@ -90,7 +90,7 @@ pkg install git
 pkg install python
 pkg install openssl
 
-git clone  https://github.com/jollykit/Mobile-hacker-.git
+git clone  https://github.com/jollykit/Mobile-hacker.git
 cd GAMKERSET-KIT
 bash install.sh
 python3 -m pip install -r requirements.txt
